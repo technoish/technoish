@@ -75,6 +75,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workdotnisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%">
 </div>
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=workdotnisha)](https://github.com/workdotnisha)
+
 ##
 
 <h3 align="center">
