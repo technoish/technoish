@@ -1,102 +1,105 @@
-##
-<h1 align="center"> Hey <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">, I'm Nisha Kumari </h1>
+# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello there, I'm Nisha</div>
 
-<h4 align="center">
-    <br>🚀 Aspiring Full-Stack Developer | BCA Student | Generative AI Enthusiast<br><br>  
-</h4>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=28&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Creative+Coder;Lifelong+Learner" alt="Typing SVG" />
+  <br>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-##
-<h3 align="center">
-   🌟 About Me: 
-</h3>
-<p align="center">
-  <br>🎓 BCA 2nd-year Student at Manipal University Jaipur.<br>💻 Completed internships and live projects as a Frontend Developer at Salesqueen Software Solutions.<br>🌱 Currently exploring Express.js, Generative AI, and full-stack development projects.<br> 
-<!--     🎯 Focused on building skills for MNC opportunities and cracking interviews. -->
-</p>
+## <div align="center">🦋 About Me</div>
 
+<div align="center">
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+</div>
 
-##
-<h3 align="center">
-  🌐 Socials:
-</h3>
+- 👩‍💻 I'm currently working on **Accessibility Analyzer**
+- 🌱 I'm currently learning **Machine Learning**
+- 👯 I'm looking to collaborate on **creative web applications**
+- 💬 Ask me about **JavaScript, React, and Full Stack Development**
+- 🌟 Fun fact: **I enjoy turning complex problems into simple, user-friendly solutions**
+- 📫 Reach me at: **workdotnisha@gmail.com**
 
-<p align="center">
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <div align="center">🌊 Connect With Me</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/nisha-kumari-38343a313/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;">
-</a>
-<a href="https://codepen.io/Byte-Crafter" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" style="border-radius: 5px;">
-</a>
-</p>
-
-## 
-<h3 align="center">
-    <br>💻 Tech Stack: 
-</h3>
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="border-radius: 50%; width: 48px; height: 48px;"></a>
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="border-radius: 50%;"></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="border-radius: 50%;"></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="border-radius: 50%;"></a>
-
-</p>
-
-##
-
-<h3 align="center">
-    <br>📊 GitHub Stats:
-</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=workdotnisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%">
-</div>
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=workdotnisha&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="48%">
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workdotnisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%">
+    <img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codepen.io/Byte-Crafter" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-008080?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
 </div>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=workdotnisha)](https://github.com/workdotnisha)
-
-##
-
-<h3 align="center">
-    <br> Watch snake eating my github contributions:
-</h3>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/workdotnisha/workdotnisha/output/snake.svg" alt="Snake animation" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+## <div align="center">💻 Tech Stack</div>
 
-##
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,django,flask,mysql,mongodb,bootstrap,tailwind,git,figma,vscode" />
+  <br><br>
+  <!-- <img src="https://img.shields.io/badge/TypeScript-008080?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-008080?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Next.js-008080?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> -->
+  <img src="https://img.shields.io/badge/Firebase-008080?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-008080?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
 
-<h4 align="center">
-   Thanks for visiting :heart:
-</h4>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/workdotnisha/count.svg" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-##
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <div align="center">📊 GitHub Stats</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=workdotnisha&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=workdotnisha&theme=tokyonight&ring=008080&fire=008080&currStreakLabel=008080&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workdotnisha&theme=tokyonight&title_color=008080&hide_border=true&layout=compact" width="50%" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=workdotnisha&theme=nord&no-frame=true&row=1&column=7&title_color=008080" width="100%" alt="Trophy"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <div align="center">📈 Activity Graph</div>
+
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=workdotnisha&theme=react-dark&color=008080&line=008080&point=008080&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <div align="center">🐚 Contribution Snake</div>
+
+<div align="center">
+ <img src="https://raw.githubusercontent.com/workdotnisha/workdotnisha/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+ <img src="https://profile-counter.glitch.me/workdotnisha/count.svg" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=workdotnisha&style=flat-square&color=008080" alt="Profile views"/> -->
+</div>
+
+<div align="center">
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <p>Feel free to star ⭐ repos you find interesting!</p>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
