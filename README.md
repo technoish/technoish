@@ -86,7 +86,7 @@
 ## <div align="center">🐚 Contribution Snake</div>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/workdotnisha/technoish/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/technoish/technoish/output/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
