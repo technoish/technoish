@@ -57,16 +57,16 @@
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=workdotnisha&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=workdotnisha&theme=tokyonight&ring=008080&fire=008080&currStreakLabel=008080&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=technoish&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technoish&theme=tokyonight&ring=008080&fire=008080&currStreakLabel=008080&hide_border=true" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workdotnisha&theme=tokyonight&title_color=008080&hide_border=true&layout=compact" width="50%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoish&theme=tokyonight&title_color=008080&hide_border=true&layout=compact" width="50%" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=workdotnisha&theme=nord&no-frame=true&row=1&column=7&title_color=008080" width="100%" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=technoish&theme=nord&no-frame=true&row=1&column=7&title_color=008080" width="100%" alt="Trophy"/>
 </div>
 
 <div align="center">
@@ -76,7 +76,7 @@
 ## <div align="center">📈 Activity Graph</div>
 
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=workdotnisha&theme=react-dark&color=008080&line=008080&point=008080&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=technoish&theme=react-dark&color=008080&line=008080&point=008080&hide_border=true" />
 </div>
 
 <div align="center">
@@ -86,7 +86,7 @@
 ## <div align="center">🐚 Contribution Snake</div>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/workdotnisha/workdotnisha/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/workdotnisha/technoish/output/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
@@ -94,7 +94,7 @@
 </div>
 
 <div align="center">
- <img src="https://profile-counter.glitch.me/workdotnisha/count.svg" />
+ <img src="https://profile-counter.glitch.me/technoish/count.svg" />
   <!-- <img src="https://komarev.com/ghpvc/?username=workdotnisha&style=flat-square&color=008080" alt="Profile views"/> -->
 </div>
 
