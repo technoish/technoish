@@ -1,15 +1,18 @@
-# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello there, I'm Nisha</div>
+# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 𝐻𝑒𝓁𝓁o 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒩𝒾𝓈𝒽𝒶 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=28&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Creative+Coder;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Creative+Coder;Lifelong+Learner" alt="Typing SVG" />
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=600&size=28&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Creative+Coder;Lifelong+Learner" alt="Typing SVG" /> -->
   <br>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">🦋 About Me</div>
+## <div align="center">🦋 𝒜𝒷o𝓊𝓉 𝑀𝑒</div>
 
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<!--   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"> -->
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
 - 👩‍💻 I'm currently working on **Accessibility Analyzer**
@@ -23,7 +26,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">🌊 Connect With Me</div>
+## <div align="center">🌊 𝒞o𝓃𝓃𝑒𝒸𝓉 𝒲𝒾𝓉𝒽 𝑀𝑒</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nisha-kumari-38343a313/" target="_blank">
@@ -38,7 +41,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">💻 Tech Stack</div>
+## <div align="center">💻 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,django,flask,mysql,mongodb,bootstrap,tailwind,git,figma,vscode" />
@@ -54,7 +57,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">📊 GitHub Stats</div>
+## <div align="center">📊 𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=technoish&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
@@ -73,7 +76,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">📈 Activity Graph</div>
+## <div align="center">📈 𝒜𝒸𝓉𝒾𝓋𝒾𝓉𝓎 𝒢𝓇𝒶𝓅𝒽</div>
 
 <div align="center">
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=technoish&theme=react-dark&color=008080&line=008080&point=008080&hide_border=true" />
@@ -83,7 +86,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">🐚 Contribution Snake</div>
+## <div align="center">🐚 𝒞o𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾o𝓃 𝒮𝓃𝒶𝓀𝑒 </div>
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/technoish/technoish/output/snake.svg" alt="Snake animation" />
@@ -99,7 +102,7 @@
 </div>
 
 <div align="center">
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <h3>✨ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻o𝓇 𝓋𝒾𝓈𝒾𝓉𝒾𝓃𝑔 𝓂𝓎 𝓅𝓇o𝒻𝒾𝓁𝑒 ❣  ✨</h3>
   <p>Feel free to star ⭐ repos you find interesting!</p>
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
