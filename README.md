@@ -18,7 +18,7 @@
 - 👩‍💻 I'm currently working on **Accessibility Analyzer**
 - 🌱 I'm currently learning **Machine Learning**
 - 👯 I'm looking to collaborate on **creative web applications**
-- 💬 Ask me about **JavaScript, React, and Full Stack Development**
+- 💬 Ask me about **JavaScript, React, C++, Python and Full Stack Development**
 - 🌟 Fun fact: **I enjoy turning complex problems into simple, user-friendly solutions**
 - 📫 Reach me at: **workdotnisha@gmail.com**
 
@@ -44,13 +44,15 @@
 ## <div align="center">💻 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,python,django,flask,mysql,mongodb,bootstrap,tailwind,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,c,cpp,python,django,flask,mysql,mongodb,bootstrap,tailwind,git,figma,vscode" />
   <br><br>
   <!-- <img src="https://img.shields.io/badge/TypeScript-008080?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Redux-008080?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Next.js-008080?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> -->
   <img src="https://img.shields.io/badge/Firebase-008080?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-008080?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+
 </div>
 
 <div align="center">
