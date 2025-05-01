@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 𝐻𝑒𝓁𝓁o 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒩𝒾𝓈𝒽𝒶 </div>
+# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 𝐻𝑒𝓁𝓁𝓸 𝓉𝒽𝑒𝓇𝑒, 𝐼'𝓂 𝒩𝒾𝓈𝒽𝒶 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=008080&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Creative+Coder;Lifelong+Learner;2%2B+years+of+coding+learning+experience" alt="Typing SVG" />
@@ -8,7 +8,7 @@
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">🦋 𝒜𝒷o𝓊𝓉 𝑀𝑒</div>
+## <div align="center">🦋 𝒜𝒷𝓸𝓊𝓉 𝑀𝑒</div>
 
 <div align="center">
 <!--   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"> -->
@@ -26,7 +26,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">🌊 𝒞o𝓃𝓃𝑒𝒸𝓉 𝒲𝒾𝓉𝒽 𝑀𝑒</div>
+## <div align="center">🌊 𝒞𝓸𝓃𝓃𝑒𝒸𝓉 𝒲𝒾𝓉𝒽 𝑀𝑒</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nisha-kumari-38343a313/" target="_blank">
@@ -88,7 +88,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">🐚 𝒞o𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾o𝓃 𝒮𝓃𝒶𝓀𝑒 </div>
+## <div align="center">🐚 𝒞𝓸𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾o𝓃 𝒮𝓃𝒶𝓀𝑒 </div>
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/technoish/technoish/output/snake.svg" alt="Snake animation" />
@@ -104,7 +104,7 @@
 </div>
 
 <div align="center">
-  <h3>✨ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻o𝓇 𝓋𝒾𝓈𝒾𝓉𝒾𝓃𝑔 𝓂𝓎 𝓅𝓇o𝒻𝒾𝓁𝑒 ❣  ✨</h3>
+  <h3>✨ 𝒯𝒽𝒶𝓃𝓀𝓈 𝒻𝓸𝓇 𝓋𝒾𝓈𝒾𝓉𝒾𝓃𝑔 𝓂𝓎 𝓅𝓇𝓸𝒻𝒾𝓁𝑒 ❣  ✨</h3>
   <p>Feel free to star ⭐ repos you find interesting!</p>
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
