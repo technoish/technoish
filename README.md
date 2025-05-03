@@ -51,7 +51,9 @@
   <img src="https://img.shields.io/badge/Next.js-008080?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> -->
   <img src="https://img.shields.io/badge/Firebase-008080?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-008080?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  <img src="https://img.shields.io/badge/-NumPy-008080?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  <img src="https://img.shields.io/badge/-Pandas-008080?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  
 
 </div>
 
