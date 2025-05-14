@@ -26,7 +26,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">🌊 𝒞𝓸𝓃𝓃𝑒𝒸𝓉 𝒲𝒾𝓉𝒽 𝑀𝑒</div>
+## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">  𝒞𝓸𝓃𝓃𝑒𝒸𝓉 𝒲𝒾𝓉𝒽 𝑀𝑒</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nisha-kumari-38343a313/" target="_blank">
@@ -61,7 +61,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">📊 𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈</div>
+## <div align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=technoish&show_icons=true&theme=tokyonight&title_color=008080&icon_color=008080&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
