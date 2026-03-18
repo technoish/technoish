@@ -92,9 +92,9 @@
 
 ## <div align="center">🐚 𝒞𝓸𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾o𝓃 </div>
 
-<div align="center">
+<!-- <div align="center">
  <img src="https://raw.githubusercontent.com/technoish/technoish/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/technoish/technoish/output/pacman-contribution-graph-dark.svg">
