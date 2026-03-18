@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=technoish&theme=nord&no-frame=true&row=1&column=7&title_color=008080" width="100%" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=technoish&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
 </div>
 
 <div align="center">
@@ -101,8 +101,8 @@
 </div>
 
 <div align="center">
- <img src="https://profile-counter.glitch.me/technoish/count.svg" />
-  <!-- <img src="https://komarev.com/ghpvc/?username=workdotnisha&style=flat-square&color=008080" alt="Profile views"/> -->
+ <!-- <img src="https://profile-counter.glitch.me/technoish/count.svg" /> -->
+  <img src="https://komarev.com/ghpvc/?username=workdotnisha&style=flat-square&color=008080" alt="Profile views"/>
 </div>
 
 <div align="center">
