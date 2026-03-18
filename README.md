@@ -90,11 +90,17 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <div align="center">🐚 𝒞𝓸𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾o𝓃 𝒮𝓃𝒶𝓀𝑒 </div>
+## <div align="center">🐚 𝒞𝓸𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾o𝓃 </div>
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/technoish/technoish/output/snake.svg" alt="Snake animation" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
