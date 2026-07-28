@@ -29,7 +29,7 @@
 ## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">  𝒞𝓸𝓃𝓃𝑒𝒸𝓉 𝒲𝒾𝓉𝒽 𝑀𝑒</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nisha-kumari-38343a313/" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-nishakumari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://codepen.io/Byte-Crafter" target="_blank">
